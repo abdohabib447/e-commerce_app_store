@@ -1,5 +1,5 @@
 #### *Home Page*  
-<img src="https://github.com/user-attachments/assets/5d17a90b-b701-47d7-b874-4870be88ef53" width="400">
+<img src="https://https://github.com/user-attachments/assets/821b3f5e-9e45-4d14-ae7d-41b4efc85042" width="400">
   
 <img src="https://github.com/user-attachments/assets/ce666c82-67f6-4257-8455-01cb218d8095" width="400">
 
@@ -26,4 +26,6 @@
 
 #### *App Overview*  
 <img src="https://github.com/user-attachments/assets/379f04fa-6d00-4c6f-8f4c-c39257a5280c" width="400">
+
+
 
