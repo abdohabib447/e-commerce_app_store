@@ -1,10 +1,9 @@
 #### *Home Page*  
 <img src="https://github.com/user-attachments/assets/5d17a90b-b701-47d7-b874-4870be88ef53" width="400">
-
-#### *Categories Page*  
+  
 <img src="https://github.com/user-attachments/assets/ce666c82-67f6-4257-8455-01cb218d8095" width="400">
 
-#### *Favorites Page (Coming Soon)*  
+#### *Categories Page*  
 <img src="https://github.com/user-attachments/assets/acfceb94-60cf-4446-ad06-9dd7b63d93ca" width="400">
 
 #### *Profile Page (Coming Soon)*  
