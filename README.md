@@ -9,7 +9,7 @@
 ####  *Categories Page* 
 <img src="https://github.com/user-attachments/assets/9b8e187a-2b8b-41b9-88b3-00701ecff191" width="400">
 
-####  
+#### *Search Feature*
 <img src="https://github.com/user-attachments/assets/7ccdc733-6c1a-45d3-be9c-2f6118bd80d7" width="400">
 
 #### *Search Feature*  
