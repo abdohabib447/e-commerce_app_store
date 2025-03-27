@@ -1,9 +1,9 @@
 #### *Home Page*  
-<img src="https://github.com/user-attachments/assets/821b3f5e-9e45-4d14-ae7d-41b4efc85042" width="400">
-  
+<img src="https://github.com/user-attachments/assets/6d522c03-17c5-42b5-af07-6e29032daf73" width="400">
+
 <img src="https://github.com/user-attachments/assets/ce666c82-67f6-4257-8455-01cb218d8095" width="400">
 
-#### *Categories Page*  
+#### *Categories Page* 
 <img src="https://github.com/user-attachments/assets/acfceb94-60cf-4446-ad06-9dd7b63d93ca" width="400">
 
 #### *Profile Page (Coming Soon)*  
@@ -26,6 +26,4 @@
 
 #### *App Overview*  
 <img src="https://github.com/user-attachments/assets/379f04fa-6d00-4c6f-8f4c-c39257a5280c" width="400">
-
-
 
