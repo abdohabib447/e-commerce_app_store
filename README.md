@@ -9,7 +9,7 @@
 ####  *Categories Page* 
 <img src="https://github.com/user-attachments/assets/9b8e187a-2b8b-41b9-88b3-00701ecff191" width="400">
 
-#### *Cart Page*  
+####  
 <img src="https://github.com/user-attachments/assets/7ccdc733-6c1a-45d3-be9c-2f6118bd80d7" width="400">
 
 #### *Search Feature*  
@@ -18,12 +18,12 @@
 #### *Product Details*  
 <img src="https://github.com/user-attachments/assets/15661cef-a26d-44dd-9df8-8cfcd9d00177" width="400">
 
-#### *Checkout Page*  
+#### *Product Details*  
 <img src="https://github.com/user-attachments/assets/1100665f-b371-4d51-a710-0e8bb8ef6603" width="400">
 
-#### *Order Confirmation*  
+#### *Cart Page*  
 <img src="https://github.com/user-attachments/assets/04000e41-41c9-4379-bc60-ed283506ade2" width="400">
 
-#### *Profile Page (Coming Soon)*
+#### *Profile Page*
 <img src="https://github.com/user-attachments/assets/379f04fa-6d00-4c6f-8f4c-c39257a5280c" width="400">
 
