@@ -3,10 +3,10 @@
 
 <img src="https://github.com/user-attachments/assets/ce666c82-67f6-4257-8455-01cb218d8095" width="400">
 
-#### *Categories Page* 
+#### *App Overview*   
 <img src="https://github.com/user-attachments/assets/acfceb94-60cf-4446-ad06-9dd7b63d93ca" width="400">
 
-#### *Profile Page (Coming Soon)*  
+####  *Categories Page* 
 <img src="https://github.com/user-attachments/assets/9b8e187a-2b8b-41b9-88b3-00701ecff191" width="400">
 
 #### *Cart Page*  
@@ -24,6 +24,6 @@
 #### *Order Confirmation*  
 <img src="https://github.com/user-attachments/assets/04000e41-41c9-4379-bc60-ed283506ade2" width="400">
 
-#### *App Overview*  
+#### *Profile Page (Coming Soon)*
 <img src="https://github.com/user-attachments/assets/379f04fa-6d00-4c6f-8f4c-c39257a5280c" width="400">
 
