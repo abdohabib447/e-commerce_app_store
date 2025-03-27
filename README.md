@@ -1,3 +1,33 @@
+E-Commerce App
+
+Overview
+
+E-Commerce is a Flutter-based shopping app designed to provide a seamless and intuitive user experience. This project showcases my expertise in mobile development, state management, and clean code architecture.
+
+Features
+
+✅ Home Page: Browse all product categories, search for items, and access the shopping cart.
+✅ Categories: Search for products by category (Men, Women, Kids, Food, etc.).
+✅ Favorites (Coming Soon): Save and view your favorite products.
+✅ Profile (Coming Soon): Manage user details such as name, email, and password.
+
+Technologies Used
+
+Flutter & Dart – For cross-platform development.
+
+MVVM Architecture – Ensuring better separation of concerns.
+
+BLoC State Management – For efficient and scalable app state handling.
+
+REST API Integration – Fetching real-time data from Route_API.
+
+Clean Code Principles – Improving readability, maintainability, and performance.
+
+Native Splash Screen – For a smooth app launch experience.
+
+
+Screenshots
+
 #### *Home Page*  
 <img src="https://github.com/user-attachments/assets/6d522c03-17c5-42b5-af07-6e29032daf73" width="400">
 
